@@ -6,7 +6,7 @@
   "singleQuote": true,
   "overrides": [
     {
-      "files": ["*.html", "*.ejs", "*.css", "*.js"],
+      "files": ["*.html", "*.ejs", "*.css", "*.js","*.jsx"],
       "options": {
         "tabWidth": 4,
         "useTabs": false
